@@ -1,0 +1,568 @@
+ObservationDate,Province/State,Country/Region,Last Update,Confirmed,Deaths
+8/28/2020,Abruzzo,Italy,4/2/2021 15:13,3725,472
+8/28/2020,Acre,Brazil,4/2/2021 15:13,24462,608
+8/28/2020,Adygea Republic,Russia,4/2/2021 15:13,3327,27
+8/28/2020,Aguascalientes,Mexico,4/2/2021 15:13,5471,398
+8/28/2020,Aichi,Japan,4/2/2021 15:13,4417,61
+8/28/2020,Akita,Japan,4/2/2021 15:13,48,0
+8/28/2020,Alabama,US,4/2/2021 15:13,122879,2107
+8/28/2020,Alagoas,Brazil,4/2/2021 15:13,78174,1861
+8/28/2020,Alaska,US,4/2/2021 15:13,5140,37
+8/28/2020,Alberta,Canada,4/2/2021 15:13,13476,237
+8/28/2020,Altai Krai,Russia,4/2/2021 15:13,11523,114
+8/28/2020,Altai Republic,Russia,4/2/2021 15:13,2086,8
+8/28/2020,Amapa,Brazil,4/2/2021 15:13,42625,657
+8/28/2020,Amazonas,Brazil,4/2/2021 15:13,118844,3629
+8/28/2020,Amazonas,Colombia,4/2/2021 15:13,2696,108
+8/28/2020,Amazonas,Peru,4/2/2021 15:13,10120,190
+8/28/2020,Amur Oblast,Russia,4/2/2021 15:13,3299,47
+8/28/2020,Ancash,Peru,4/2/2021 15:13,17595,1148
+8/28/2020,Andalusia,Spain,4/2/2021 15:13,27734,1480
+8/28/2020,Andaman and Nicobar Islands,India,4/2/2021 15:13,3050,42
+8/28/2020,Andhra Pradesh,India,4/2/2021 15:13,403616,3714
+8/28/2020,Anguilla,UK,4/2/2021 15:13,3,0
+8/28/2020,Anhui,Mainland China,4/2/2021 15:13,991,6
+8/28/2020,Antioquia,Colombia,4/2/2021 15:13,77709,1603
+8/28/2020,Antofagasta,Chile,4/2/2021 15:13,17857,437
+8/28/2020,Aomori,Japan,4/2/2021 15:13,38,1
+8/28/2020,Apurimac,Peru,4/2/2021 15:13,2539,61
+8/28/2020,Aragon,Spain,4/2/2021 15:13,25562,1096
+8/28/2020,Arauca,Colombia,4/2/2021 15:13,898,14
+8/28/2020,Araucania,Chile,4/2/2021 15:13,5046,94
+8/28/2020,Arequipa,Peru,4/2/2021 15:13,30997,1121
+8/28/2020,Arica y Parinacota,Chile,4/2/2021 15:13,6482,106
+8/28/2020,Arizona,US,4/2/2021 15:13,200658,4978
+8/28/2020,Arkansas,US,4/2/2021 15:13,59583,756
+8/28/2020,Arkhangelsk Oblast,Russia,4/2/2021 15:13,10602,249
+8/28/2020,Aruba,Netherlands,4/2/2021 15:13,1906,9
+8/28/2020,Arunachal Pradesh,India,4/2/2021 15:13,3745,5
+8/28/2020,Assam,India,4/2/2021 15:13,101367,286
+8/28/2020,Astrakhan Oblast,Russia,4/2/2021 15:13,5591,70
+8/28/2020,Asturias,Spain,4/2/2021 15:13,3221,335
+8/28/2020,Atacama,Chile,4/2/2021 15:13,5480,46
+8/28/2020,Atlantico,Colombia,4/2/2021 15:13,63758,2876
+8/28/2020,Australian Capital Territory,Australia,4/2/2021 15:13,113,3
+8/28/2020,Ayacucho,Peru,4/2/2021 15:13,7573,256
+8/28/2020,Aysen,Chile,4/2/2021 15:13,114,1
+8/28/2020,Azad Jammu and Kashmir,Pakistan,4/2/2021 15:13,2277,61
+8/28/2020,Baden-Wurttemberg,Germany,4/2/2021 15:13,41574,1862
+8/28/2020,Bahia,Brazil,4/2/2021 15:13,250977,5243
+8/28/2020,Baja California,Mexico,4/2/2021 15:13,16486,3101
+8/28/2020,Baja California Sur,Mexico,4/2/2021 15:13,7374,343
+8/28/2020,Baleares,Spain,4/2/2021 15:13,7648,233
+8/28/2020,Balochistan,Pakistan,4/2/2021 15:13,12742,141
+8/28/2020,Bashkortostan Republic,Russia,4/2/2021 15:13,7698,28
+8/28/2020,Basilicata,Italy,4/2/2021 15:13,518,28
+8/28/2020,Bayern,Germany,4/2/2021 15:13,56764,2636
+8/28/2020,Beijing,Mainland China,4/2/2021 15:13,935,9
+8/28/2020,Belgorod Oblast,Russia,4/2/2021 15:13,7239,51
+8/28/2020,Berlin,Germany,4/2/2021 15:13,11124,226
+8/28/2020,Bermuda,UK,4/2/2021 15:13,168,9
+8/28/2020,Bihar,India,4/2/2021 15:13,131057,558
+8/28/2020,Biobio,Chile,4/2/2021 15:13,16632,201
+8/28/2020,Blekinge,Sweden,4/2/2021 15:13,600,16
+8/28/2020,Bolivar,Colombia,4/2/2021 15:13,24804,695
+8/28/2020,"Bonaire, Sint Eustatius and Saba",Netherlands,4/2/2021 15:13,14,0
+8/28/2020,Boyaca,Colombia,4/2/2021 15:13,3578,63
+8/28/2020,Brandenburg,Germany,4/2/2021 15:13,3895,173
+8/28/2020,Bremen,Germany,4/2/2021 15:13,1983,56
+8/28/2020,British Columbia,Canada,4/2/2021 15:13,5496,204
+8/28/2020,British Virgin Islands,UK,4/2/2021 15:13,35,1
+8/28/2020,Bryansk Oblast,Russia,4/2/2021 15:13,8125,35
+8/28/2020,Buryatia Republic,Russia,4/2/2021 15:13,5087,46
+8/28/2020,C. Valenciana,Spain,4/2/2021 15:13,22695,1462
+8/28/2020,Cajamarca,Peru,4/2/2021 15:13,14256,379
+8/28/2020,Calabria,Italy,4/2/2021 15:13,1432,97
+8/28/2020,Caldas,Colombia,4/2/2021 15:13,2707,43
+8/28/2020,California,US,4/2/2021 15:13,699912,12857
+8/28/2020,Callao,Peru,4/2/2021 15:13,26709,1546
+8/28/2020,Campania,Italy,4/2/2021 15:13,6424,445
+8/28/2020,Campeche,Mexico,4/2/2021 15:13,5505,748
+8/28/2020,Canarias,Spain,4/2/2021 15:13,6126,172
+8/28/2020,Cantabria,Spain,4/2/2021 15:13,3832,221
+8/28/2020,Capital District,Colombia,4/2/2021 15:13,204065,5276
+8/28/2020,Caqueta,Colombia,4/2/2021 15:13,5536,189
+8/28/2020,Casanare,Colombia,4/2/2021 15:13,986,23
+8/28/2020,Castilla - La Mancha,Spain,4/2/2021 15:13,23028,3042
+8/28/2020,Castilla y Leon,Spain,4/2/2021 15:13,27430,2822
+8/28/2020,Catalonia,Spain,4/2/2021 15:13,106811,5741
+8/28/2020,Cauca,Colombia,4/2/2021 15:13,4740,149
+8/28/2020,Cayman Islands,UK,4/2/2021 15:13,205,1
+8/28/2020,Ceara,Brazil,4/2/2021 15:13,212484,8376
+8/28/2020,Cesar,Colombia,4/2/2021 15:13,9655,252
+8/28/2020,Ceuta,Spain,4/2/2021 15:13,249,4
+8/28/2020,Chandigarh,India,4/2/2021 15:13,3724,45
+8/28/2020,Channel Islands,UK,4/2/2021 15:13,625,48
+8/28/2020,Chechen Republic,Russia,4/2/2021 15:13,2253,38
+8/28/2020,Chelyabinsk Oblast,Russia,4/2/2021 15:13,13488,104
+8/28/2020,Cherkasy Oblast,Ukraine,4/2/2021 15:13,1390,38
+8/28/2020,Chernihiv Oblast,Ukraine,4/2/2021 15:13,1676,22
+8/28/2020,Chernivtsi Oblast,Ukraine,4/2/2021 15:13,9855,273
+8/28/2020,Chhattisgarh,India,4/2/2021 15:13,27233,251
+8/28/2020,Chiapas,Mexico,4/2/2021 15:13,6242,1000
+8/28/2020,Chiba,Japan,4/2/2021 15:13,2960,61
+8/28/2020,Chihuahua,Mexico,4/2/2021 15:13,7610,1116
+8/28/2020,Choco,Colombia,4/2/2021 15:13,3697,135
+8/28/2020,Chongqing,Mainland China,4/2/2021 15:13,583,6
+8/28/2020,Chukotka Autonomous Okrug,Russia,4/2/2021 15:13,171,2
+8/28/2020,Chuvashia Republic,Russia,4/2/2021 15:13,7682,70
+8/28/2020,Ciudad de Mexico,Mexico,4/2/2021 15:13,96239,10419
+8/28/2020,Coahuila,Mexico,4/2/2021 15:13,21049,1340
+8/28/2020,Colima,Mexico,4/2/2021 15:13,3542,414
+8/28/2020,Colorado,US,4/2/2021 15:13,56773,1937
+8/28/2020,Connecticut,US,4/2/2021 15:13,52495,4465
+8/28/2020,Coquimbo,Chile,4/2/2021 15:13,9680,126
+8/28/2020,Cordoba,Colombia,4/2/2021 15:13,19113,1226
+8/28/2020,Crimea Republic*,Ukraine,4/2/2021 15:13,2187,30
+8/28/2020,Cundinamarca,Colombia,4/2/2021 15:13,21640,611
+8/28/2020,Curacao,Netherlands,4/2/2021 15:13,62,1
+8/28/2020,Cusco,Peru,4/2/2021 15:13,13354,289
+8/28/2020,Dadra and Nagar Haveli and Daman and Diu,India,4/2/2021 15:13,2290,2
+8/28/2020,Dagestan Republic,Russia,4/2/2021 15:13,10788,494
+8/28/2020,Dalarna,Sweden,4/2/2021 15:13,2123,174
+8/28/2020,Delaware,US,4/2/2021 15:13,17083,615
+8/28/2020,Delhi,India,4/2/2021 15:13,169412,4389
+8/28/2020,Diamond Princess cruise ship,Canada,4/2/2021 15:13,0,1
+8/28/2020,Diamond Princess cruise ship,US,4/2/2021 15:13,49,0
+8/28/2020,District of Columbia,US,4/2/2021 15:13,13851,605
+8/28/2020,Distrito Federal,Brazil,4/2/2021 15:13,158180,2440
+8/28/2020,Dnipropetrovsk Oblast,Ukraine,4/2/2021 15:13,2162,45
+8/28/2020,Donetsk Oblast,Ukraine,4/2/2021 15:13,1318,20
+8/28/2020,Drenthe,Netherlands,4/2/2021 15:13,606,41
+8/28/2020,Durango,Mexico,4/2/2021 15:13,6206,416
+8/28/2020,Ehime,Japan,4/2/2021 15:13,114,6
+8/28/2020,Emilia-Romagna,Italy,4/2/2021 15:13,31547,4459
+8/28/2020,England,UK,4/2/2021 15:13,286611,36837
+8/28/2020,Espirito Santo,Brazil,4/2/2021 15:13,109493,3117
+8/28/2020,Extremadura,Spain,4/2/2021 15:13,4698,526
+8/28/2020,Falkland Islands (Malvinas),UK,4/2/2021 15:13,13,0
+8/28/2020,Faroe Islands,Denmark,4/2/2021 15:13,411,0
+8/28/2020,Flevoland,Netherlands,4/2/2021 15:13,1291,94
+8/28/2020,Florida,US,4/2/2021 15:13,615806,10957
+8/28/2020,French Guiana,France,4/2/2021 15:13,9022,58
+8/28/2020,French Polynesia,France,4/2/2021 15:13,482,0
+8/28/2020,Friesland,Netherlands,4/2/2021 15:13,807,69
+8/28/2020,Friuli Venezia Giulia,Italy,4/2/2021 15:13,3728,348
+8/28/2020,Fujian,Mainland China,4/2/2021 15:13,378,1
+8/28/2020,Fukui,Japan,4/2/2021 15:13,206,8
+8/28/2020,Fukuoka,Japan,4/2/2021 15:13,4414,54
+8/28/2020,Fukushima,Japan,4/2/2021 15:13,151,0
+8/28/2020,Galicia,Spain,4/2/2021 15:13,13655,634
+8/28/2020,Gansu,Mainland China,4/2/2021 15:13,169,2
+8/28/2020,Gavleborg,Sweden,4/2/2021 15:13,3191,162
+8/28/2020,Gelderland,Netherlands,4/2/2021 15:13,7359,688
+8/28/2020,Georgia,US,4/2/2021 15:13,265372,5471
+8/28/2020,Gibraltar,UK,4/2/2021 15:13,274,0
+8/28/2020,Gifu,Japan,4/2/2021 15:13,551,9
+8/28/2020,Gilgit-Baltistan,Pakistan,4/2/2021 15:13,2816,67
+8/28/2020,Goa,India,4/2/2021 15:13,16006,175
+8/28/2020,Goias,Brazil,4/2/2021 15:13,128965,3003
+8/28/2020,Gotland,Sweden,4/2/2021 15:13,317,6
+8/28/2020,Grand Princess,Canada,4/2/2021 15:13,13,0
+8/28/2020,Grand Princess,US,4/2/2021 15:13,103,3
+8/28/2020,Greenland,Denmark,4/2/2021 15:13,14,0
+8/28/2020,Groningen,Netherlands,4/2/2021 15:13,584,19
+8/28/2020,Guadeloupe,France,4/2/2021 15:13,1145,16
+8/28/2020,Guainia,Colombia,4/2/2021 15:13,92,2
+8/28/2020,Guam,US,4/2/2021 15:13,1287,10
+8/28/2020,Guanajuato,Mexico,4/2/2021 15:13,30431,1688
+8/28/2020,Guangdong,Mainland China,4/2/2021 15:13,1737,8
+8/28/2020,Guangxi,Mainland China,4/2/2021 15:13,255,2
+8/28/2020,Guaviare,Colombia,4/2/2021 15:13,239,1
+8/28/2020,Guerrero,Mexico,4/2/2021 15:13,14566,1636
+8/28/2020,Guizhou,Mainland China,4/2/2021 15:13,147,2
+8/28/2020,Gujarat,India,4/2/2021 15:13,92452,2976
+8/28/2020,Gunma,Japan,4/2/2021 15:13,432,19
+8/28/2020,Hainan,Mainland China,4/2/2021 15:13,171,6
+8/28/2020,Halland,Sweden,4/2/2021 15:13,2129,81
+8/28/2020,Hamburg,Germany,4/2/2021 15:13,6192,266
+8/28/2020,Haryana,India,4/2/2021 15:13,60596,661
+8/28/2020,Hawaii,US,4/2/2021 15:13,7830,59
+8/28/2020,Hebei,Mainland China,4/2/2021 15:13,362,6
+8/28/2020,Heilongjiang,Mainland China,4/2/2021 15:13,948,13
+8/28/2020,Henan,Mainland China,4/2/2021 15:13,1276,22
+8/28/2020,Hessen,Germany,4/2/2021 15:13,15232,530
+8/28/2020,Hidalgo,Mexico,4/2/2021 15:13,10077,1562
+8/28/2020,Himachal Pradesh,India,4/2/2021 15:13,5637,33
+8/28/2020,Hiroshima,Japan,4/2/2021 15:13,453,3
+8/28/2020,Hokkaido,Japan,4/2/2021 15:13,1749,103
+8/28/2020,Hong Kong,Hong Kong,4/2/2021 15:13,4768,84
+8/28/2020,Huancavelica,Peru,4/2/2021 15:13,4430,76
+8/28/2020,Huanuco,Peru,4/2/2021 15:13,11459,321
+8/28/2020,Hubei,Mainland China,4/2/2021 15:13,68139,4512
+8/28/2020,Huila,Colombia,4/2/2021 15:13,4529,111
+8/28/2020,Hunan,Mainland China,4/2/2021 15:13,1019,4
+8/28/2020,Hyogo,Japan,4/2/2021 15:13,2238,53
+8/28/2020,Ibaraki,Japan,4/2/2021 15:13,538,13
+8/28/2020,Ica,Peru,4/2/2021 15:13,19628,1434
+8/28/2020,Idaho,US,4/2/2021 15:13,31376,353
+8/28/2020,Illinois,US,4/2/2021 15:13,231186,8206
+8/28/2020,Indiana,US,4/2/2021 15:13,91313,3229
+8/28/2020,Ingushetia Republic,Russia,4/2/2021 15:13,4306,76
+8/28/2020,Inner Mongolia,Mainland China,4/2/2021 15:13,260,1
+8/28/2020,Iowa,US,4/2/2021 15:13,62828,1108
+8/28/2020,Irkutsk Oblast,Russia,4/2/2021 15:13,16583,248
+8/28/2020,Ishikawa,Japan,4/2/2021 15:13,613,33
+8/28/2020,Islamabad,Pakistan,4/2/2021 15:13,15578,175
+8/28/2020,Isle of Man,UK,4/2/2021 15:13,336,24
+8/28/2020,Ivano-Frankivsk Oblast,Ukraine,4/2/2021 15:13,8661,208
+8/28/2020,Ivanovo Oblast,Russia,4/2/2021 15:13,7285,117
+8/28/2020,Iwate,Japan,4/2/2021 15:13,19,0
+8/28/2020,Jalisco,Mexico,4/2/2021 15:13,19567,2378
+8/28/2020,Jammu and Kashmir,India,4/2/2021 15:13,35831,678
+8/28/2020,Jamtland Harjedalen,Sweden,4/2/2021 15:13,1178,64
+8/28/2020,Jewish Autonomous Okrug,Russia,4/2/2021 15:13,609,9
+8/28/2020,Jharkhand,India,4/2/2021 15:13,35321,381
+8/28/2020,Jiangsu,Mainland China,4/2/2021 15:13,665,0
+8/28/2020,Jiangxi,Mainland China,4/2/2021 15:13,935,1
+8/28/2020,Jilin,Mainland China,4/2/2021 15:13,157,2
+8/28/2020,Jonkoping,Sweden,4/2/2021 15:13,4933,181
+8/28/2020,Junin,Peru,4/2/2021 15:13,14050,622
+8/28/2020,Kabardino-Balkarian Republic,Russia,4/2/2021 15:13,6439,77
+8/28/2020,Kagawa,Japan,4/2/2021 15:13,75,1
+8/28/2020,Kagoshima,Japan,4/2/2021 15:13,356,11
+8/28/2020,Kaliningrad Oblast,Russia,4/2/2021 15:13,3369,58
+8/28/2020,Kalmar,Sweden,4/2/2021 15:13,874,63
+8/28/2020,Kalmykia Republic,Russia,4/2/2021 15:13,3981,55
+8/28/2020,Kaluga Oblast,Russia,4/2/2021 15:13,7964,67
+8/28/2020,Kamchatka Krai,Russia,4/2/2021 15:13,3816,42
+8/28/2020,Kanagawa,Japan,4/2/2021 15:13,4744,116
+8/28/2020,Kansas,US,4/2/2021 15:13,41027,447
+8/28/2020,Karachay-Cherkess Republic,Russia,4/2/2021 15:13,4976,26
+8/28/2020,Karelia Republic,Russia,4/2/2021 15:13,3018,16
+8/28/2020,Karnataka,India,4/2/2021 15:13,318752,5368
+8/28/2020,Kemerovo Oblast,Russia,4/2/2021 15:13,6156,41
+8/28/2020,Kentucky,US,4/2/2021 15:13,46757,918
+8/28/2020,Kerala,India,4/2/2021 15:13,69304,274
+8/28/2020,Khabarovsk Krai,Russia,4/2/2021 15:13,9910,87
+8/28/2020,Khakassia Republic,Russia,4/2/2021 15:13,3362,42
+8/28/2020,Khanty-Mansi Autonomous Okrug,Russia,4/2/2021 15:13,19414,163
+8/28/2020,Kharkiv Oblast,Ukraine,4/2/2021 15:13,8444,197
+8/28/2020,Kherson Oblast,Ukraine,4/2/2021 15:13,374,9
+8/28/2020,Khmelnytskyi Oblast,Ukraine,4/2/2021 15:13,2194,41
+8/28/2020,Khyber Pakhtunkhwa,Pakistan,4/2/2021 15:13,35923,1250
+8/28/2020,Kiev,Ukraine,4/2/2021 15:13,12719,187
+8/28/2020,Kiev Oblast,Ukraine,4/2/2021 15:13,5397,93
+8/28/2020,Kirov Oblast,Russia,4/2/2021 15:13,6361,98
+8/28/2020,Kirovohrad Oblast,Ukraine,4/2/2021 15:13,790,45
+8/28/2020,Kochi,Japan,4/2/2021 15:13,119,3
+8/28/2020,Komi Republic,Russia,4/2/2021 15:13,6480,84
+8/28/2020,Kostroma Oblast,Russia,4/2/2021 15:13,3429,40
+8/28/2020,Krasnodar Krai,Russia,4/2/2021 15:13,10941,174
+8/28/2020,Krasnoyarsk Krai,Russia,4/2/2021 15:13,16539,458
+8/28/2020,Kronoberg,Sweden,4/2/2021 15:13,1386,108
+8/28/2020,Kumamoto,Japan,4/2/2021 15:13,496,7
+8/28/2020,Kurgan Oblast,Russia,4/2/2021 15:13,2914,17
+8/28/2020,Kursk Oblast,Russia,4/2/2021 15:13,7041,53
+8/28/2020,Kyoto,Japan,4/2/2021 15:13,1422,22
+8/28/2020,La Guajira,Colombia,4/2/2021 15:13,4779,224
+8/28/2020,La Libertad,Peru,4/2/2021 15:13,21693,2023
+8/28/2020,La Rioja,Spain,4/2/2021 15:13,5371,369
+8/28/2020,Ladakh,India,4/2/2021 15:13,2540,28
+8/28/2020,Lakshadweep,India,4/2/2021 15:13,0,0
+8/28/2020,Lambayeque,Peru,4/2/2021 15:13,21647,1578
+8/28/2020,Lazio,Italy,4/2/2021 15:13,10716,878
+8/28/2020,Leningrad Oblast,Russia,4/2/2021 15:13,6716,79
+8/28/2020,Liaoning,Mainland China,4/2/2021 15:13,262,2
+8/28/2020,Liguria,Italy,4/2/2021 15:13,10807,1571
+8/28/2020,Lima,Peru,4/2/2021 15:13,298051,12513
+8/28/2020,Limburg,Netherlands,4/2/2021 15:13,5357,755
+8/28/2020,Lipetsk Oblast,Russia,4/2/2021 15:13,5020,26
+8/28/2020,Lombardia,Italy,4/2/2021 15:13,99416,16860
+8/28/2020,Loreto,Peru,4/2/2021 15:13,14908,919
+8/28/2020,Los Lagos,Chile,4/2/2021 15:13,6379,66
+8/28/2020,Los Rios,Chile,4/2/2021 15:13,1085,15
+8/28/2020,Louisiana,US,4/2/2021 15:13,146243,4904
+8/28/2020,Luhansk Oblast,Ukraine,4/2/2021 15:13,274,2
+8/28/2020,Lviv Oblast,Ukraine,4/2/2021 15:13,13978,381
+8/28/2020,Macau,Macau,4/2/2021 15:13,46,0
+8/28/2020,Madhya Pradesh,India,4/2/2021 15:13,59433,1323
+8/28/2020,Madre de Dios,Peru,4/2/2021 15:13,5654,129
+8/28/2020,Madrid,Spain,4/2/2021 15:13,118600,8604
+8/28/2020,Magadan Oblast,Russia,4/2/2021 15:13,1857,18
+8/28/2020,Magallanes,Chile,4/2/2021 15:13,3207,35
+8/28/2020,Magdalena,Colombia,4/2/2021 15:13,11942,654
+8/28/2020,Maharashtra,India,4/2/2021 15:13,747995,23775
+8/28/2020,Maine,US,4/2/2021 15:13,4436,132
+8/28/2020,Manipur,India,4/2/2021 15:13,5843,27
+8/28/2020,Manitoba,Canada,4/2/2021 15:13,1096,14
+8/28/2020,Maranhao,Brazil,4/2/2021 15:13,150144,3412
+8/28/2020,Marche,Italy,4/2/2021 15:13,7211,987
+8/28/2020,Mari El Republic,Russia,4/2/2021 15:13,4211,39
+8/28/2020,Martinique,France,4/2/2021 15:13,596,16
+8/28/2020,Maryland,US,4/2/2021 15:13,106664,3727
+8/28/2020,Massachusetts,US,4/2/2021 15:13,127584,9024
+8/28/2020,Mato Grosso,Brazil,4/2/2021 15:13,89140,2677
+8/28/2020,Mato Grosso do Sul,Brazil,4/2/2021 15:13,47152,823
+8/28/2020,Maule,Chile,4/2/2021 15:13,11442,261
+8/28/2020,Mayotte,France,4/2/2021 15:13,3301,40
+8/28/2020,Mecklenburg-Vorpommern,Germany,4/2/2021 15:13,1004,20
+8/28/2020,Meghalaya,India,4/2/2021 15:13,2240,10
+8/28/2020,Melilla,Spain,4/2/2021 15:13,300,2
+8/28/2020,Meta,Colombia,4/2/2021 15:13,8205,177
+8/28/2020,Metropolitana,Chile,4/2/2021 15:13,272039,8462
+8/28/2020,Mexico,Mexico,4/2/2021 15:13,66875,7946
+8/28/2020,Michigan,US,4/2/2021 15:13,111136,6712
+8/28/2020,Michoacan,Mexico,4/2/2021 15:13,14500,1134
+8/28/2020,Mie,Japan,4/2/2021 15:13,364,2
+8/28/2020,Minas Gerais,Brazil,4/2/2021 15:13,209465,5167
+8/28/2020,Minnesota,US,4/2/2021 15:13,73240,1859
+8/28/2020,Mississippi,US,4/2/2021 15:13,81294,2413
+8/28/2020,Missouri,US,4/2/2021 15:13,83194,1522
+8/28/2020,Miyagi,Japan,4/2/2021 15:13,198,2
+8/28/2020,Miyazaki,Japan,4/2/2021 15:13,352,1
+8/28/2020,Mizoram,India,4/2/2021 15:13,1003,0
+8/28/2020,Molise,Italy,4/2/2021 15:13,522,23
+8/28/2020,Montana,US,4/2/2021 15:13,7063,100
+8/28/2020,Montserrat,UK,4/2/2021 15:13,13,1
+8/28/2020,Moquegua,Peru,4/2/2021 15:13,8432,221
+8/28/2020,Mordovia Republic,Russia,4/2/2021 15:13,5367,38
+8/28/2020,Morelos,Mexico,4/2/2021 15:13,5096,957
+8/28/2020,Moscow,Russia,4/2/2021 15:13,260361,4786
+8/28/2020,Moscow Oblast,Russia,4/2/2021 15:13,67749,1178
+8/28/2020,Murcia,Spain,4/2/2021 15:13,5455,156
+8/28/2020,Murmansk Oblast,Russia,4/2/2021 15:13,12631,157
+8/28/2020,Mykolaiv Oblast,Ukraine,4/2/2021 15:13,1077,23
+8/28/2020,Nagaland,India,4/2/2021 15:13,3805,9
+8/28/2020,Nagano,Japan,4/2/2021 15:13,218,0
+8/28/2020,Nagasaki,Japan,4/2/2021 15:13,223,3
+8/28/2020,Nara,Japan,4/2/2021 15:13,508,5
+8/28/2020,Narino,Colombia,4/2/2021 15:13,13709,477
+8/28/2020,Navarra,Spain,4/2/2021 15:13,9537,533
+8/28/2020,Nayarit,Mexico,4/2/2021 15:13,4882,571
+8/28/2020,Nebraska,US,4/2/2021 15:13,33436,392
+8/28/2020,Nenets Autonomous Okrug,Russia,4/2/2021 15:13,311,0
+8/28/2020,Nevada,US,4/2/2021 15:13,67852,1287
+8/28/2020,New Brunswick,Canada,4/2/2021 15:13,191,2
+8/28/2020,New Caledonia,France,4/2/2021 15:13,23,0
+8/28/2020,New Hampshire,US,4/2/2021 15:13,7216,432
+8/28/2020,New Jersey,US,4/2/2021 15:13,194407,15930
+8/28/2020,New Mexico,US,4/2/2021 15:13,25042,767
+8/28/2020,New South Wales,Australia,4/2/2021 15:13,4033,52
+8/28/2020,New York,US,4/2/2021 15:13,432767,32934
+8/28/2020,Newfoundland and Labrador,Canada,4/2/2021 15:13,269,3
+8/28/2020,Niedersachsen,Germany,4/2/2021 15:13,16555,659
+8/28/2020,Niigata,Japan,4/2/2021 15:13,141,0
+8/28/2020,Ningxia,Mainland China,4/2/2021 15:13,75,0
+8/28/2020,Nizhny Novgorod Oblast,Russia,4/2/2021 15:13,27262,460
+8/28/2020,Noord-Brabant,Netherlands,4/2/2021 15:13,11994,1547
+8/28/2020,Noord-Holland,Netherlands,4/2/2021 15:13,12036,826
+8/28/2020,Nordrhein-Westfalen,Germany,4/2/2021 15:13,58189,1808
+8/28/2020,Norrbotten,Sweden,4/2/2021 15:13,1663,88
+8/28/2020,Norte de Santander,Colombia,4/2/2021 15:13,10900,590
+8/28/2020,North Carolina,US,4/2/2021 15:13,162491,2652
+8/28/2020,North Dakota,US,4/2/2021 15:13,11110,139
+8/28/2020,North Ossetia - Alania Republic,Russia,4/2/2021 15:13,4860,67
+8/28/2020,Northern Ireland,UK,4/2/2021 15:13,7049,560
+8/28/2020,Northern Mariana Islands,US,4/2/2021 15:13,54,2
+8/28/2020,Northern Territory,Australia,4/2/2021 15:13,33,0
+8/28/2020,Northwest Territories,Canada,4/2/2021 15:13,5,0
+8/28/2020,Nova Scotia,Canada,4/2/2021 15:13,1083,65
+8/28/2020,Novgorod Oblast,Russia,4/2/2021 15:13,4274,72
+8/28/2020,Novosibirsk Oblast,Russia,4/2/2021 15:13,11238,352
+8/28/2020,Nuble,Chile,4/2/2021 15:13,4556,77
+8/28/2020,Nuevo Leon,Mexico,4/2/2021 15:13,28155,2170
+8/28/2020,Nunavut,Canada,4/2/2021 15:13,0,0
+8/28/2020,OHiggins,Chile,4/2/2021 15:13,13136,331
+8/28/2020,Oaxaca,Mexico,4/2/2021 15:13,13401,1227
+8/28/2020,Odessa Oblast,Ukraine,4/2/2021 15:13,6751,99
+8/28/2020,Odisha,India,4/2/2021 15:13,94668,456
+8/28/2020,Ohio,US,4/2/2021 15:13,120124,3836
+8/28/2020,Oita,Japan,4/2/2021 15:13,144,1
+8/28/2020,Okayama,Japan,4/2/2021 15:13,145,0
+8/28/2020,Okinawa,Japan,4/2/2021 15:13,2060,26
+8/28/2020,Oklahoma,US,4/2/2021 15:13,56260,786
+8/28/2020,Omsk Oblast,Russia,4/2/2021 15:13,9154,175
+8/28/2020,Ontario,Canada,4/2/2021 15:13,43919,2855
+8/28/2020,Orebro,Sweden,4/2/2021 15:13,2657,171
+8/28/2020,Oregon,US,4/2/2021 15:13,26054,447
+8/28/2020,Orel Oblast,Russia,4/2/2021 15:13,6889,105
+8/28/2020,Orenburg Oblast,Russia,4/2/2021 15:13,9694,74
+8/28/2020,Osaka,Japan,4/2/2021 15:13,8339,138
+8/28/2020,Ostergotland,Sweden,4/2/2021 15:13,3787,263
+8/28/2020,Overijssel,Netherlands,4/2/2021 15:13,3467,314
+8/28/2020,P.A. Bolzano,Italy,4/2/2021 15:13,2915,292
+8/28/2020,P.A. Trento,Italy,4/2/2021 15:13,5070,405
+8/28/2020,Pais Vasco,Spain,4/2/2021 15:13,27334,1579
+8/28/2020,Para,Brazil,4/2/2021 15:13,196874,6106
+8/28/2020,Paraiba,Brazil,4/2/2021 15:13,104803,2404
+8/28/2020,Parana,Brazil,4/2/2021 15:13,126964,3194
+8/28/2020,Pasco,Peru,4/2/2021 15:13,3599,83
+8/28/2020,Pennsylvania,US,4/2/2021 15:13,136781,7642
+8/28/2020,Penza Oblast,Russia,4/2/2021 15:13,7929,106
+8/28/2020,Perm Krai,Russia,4/2/2021 15:13,7697,209
+8/28/2020,Pernambuco,Brazil,4/2/2021 15:13,123146,7512
+8/28/2020,Piaui,Brazil,4/2/2021 15:13,76033,1785
+8/28/2020,Piemonte,Italy,4/2/2021 15:13,32694,4145
+8/28/2020,Piura,Peru,4/2/2021 15:13,27490,1803
+8/28/2020,Poltava Oblast,Ukraine,4/2/2021 15:13,705,20
+8/28/2020,Port Quarantine,Japan,4/2/2021 15:13,770,1
+8/28/2020,Primorsky Krai,Russia,4/2/2021 15:13,9364,101
+8/28/2020,Prince Edward Island,Canada,4/2/2021 15:13,44,0
+8/28/2020,Pskov Oblast,Russia,4/2/2021 15:13,4557,62
+8/28/2020,Puducherry,India,4/2/2021 15:13,13024,199
+8/28/2020,Puebla,Mexico,4/2/2021 15:13,26451,3445
+8/28/2020,Puerto Rico,US,4/2/2021 15:13,31988,424
+8/28/2020,Puglia,Italy,4/2/2021 15:13,5268,556
+8/28/2020,Punjab,India,4/2/2021 15:13,49378,1307
+8/28/2020,Punjab,Pakistan,4/2/2021 15:13,96636,2195
+8/28/2020,Puno,Peru,4/2/2021 15:13,7925,215
+8/28/2020,Putumayo,Colombia,4/2/2021 15:13,2736,130
+8/28/2020,Qinghai,Mainland China,4/2/2021 15:13,18,0
+8/28/2020,Quebec,Canada,4/2/2021 15:13,62124,5776
+8/28/2020,Queensland,Australia,4/2/2021 15:13,1117,6
+8/28/2020,Queretaro,Mexico,4/2/2021 15:13,6125,702
+8/28/2020,Quindio,Colombia,4/2/2021 15:13,1071,31
+8/28/2020,Quintana Roo,Mexico,4/2/2021 15:13,10156,1379
+8/28/2020,Rajasthan,India,4/2/2021 15:13,77370,1017
+8/28/2020,Recovered,US,4/2/2021 15:13,0,0
+8/28/2020,Reunion,France,4/2/2021 15:13,1487,6
+8/28/2020,Rheinland-Pfalz,Germany,4/2/2021 15:13,8920,243
+8/28/2020,Rhode Island,US,4/2/2021 15:13,21683,1073
+8/28/2020,Rio Grande do Norte,Brazil,4/2/2021 15:13,61219,2234
+8/28/2020,Rio Grande do Sul,Brazil,4/2/2021 15:13,120739,3323
+8/28/2020,Rio de Janeiro,Brazil,4/2/2021 15:13,219198,15859
+8/28/2020,Risaralda,Colombia,4/2/2021 15:13,5845,92
+8/28/2020,Rivne Oblast,Ukraine,4/2/2021 15:13,8921,126
+8/28/2020,Rondonia,Brazil,4/2/2021 15:13,54205,1114
+8/28/2020,Roraima,Brazil,4/2/2021 15:13,42997,587
+8/28/2020,Rostov Oblast,Russia,4/2/2021 15:13,16538,338
+8/28/2020,Ryazan Oblast,Russia,4/2/2021 15:13,7078,43
+8/28/2020,Saarland,Germany,4/2/2021 15:13,3112,175
+8/28/2020,Sachsen,Germany,4/2/2021 15:13,5930,225
+8/28/2020,Sachsen-Anhalt,Germany,4/2/2021 15:13,2229,65
+8/28/2020,Saga,Japan,4/2/2021 15:13,229,0
+8/28/2020,Saint Barthelemy,France,4/2/2021 15:13,18,0
+8/28/2020,"Saint Helena, Ascension and Tristan da Cunha",UK,4/2/2021 15:13,0,0
+8/28/2020,Saint Petersburg,Russia,4/2/2021 15:13,36104,2401
+8/28/2020,Saint Pierre and Miquelon,France,4/2/2021 15:13,5,0
+8/28/2020,Saitama,Japan,4/2/2021 15:13,3806,88
+8/28/2020,Sakha (Yakutiya) Republic,Russia,4/2/2021 15:13,7253,81
+8/28/2020,Sakhalin Oblast,Russia,4/2/2021 15:13,4265,0
+8/28/2020,Samara Oblast,Russia,4/2/2021 15:13,8275,124
+8/28/2020,San Andres y Providencia,Colombia,4/2/2021 15:13,175,1
+8/28/2020,San Luis Potosi,Mexico,4/2/2021 15:13,17373,1112
+8/28/2020,San Martin,Peru,4/2/2021 15:13,12965,656
+8/28/2020,Santa Catarina,Brazil,4/2/2021 15:13,141692,2193
+8/28/2020,Santander,Colombia,4/2/2021 15:13,16812,689
+8/28/2020,Sao Paulo,Brazil,4/2/2021 15:13,796209,29694
+8/28/2020,Saratov Oblast,Russia,4/2/2021 15:13,12067,71
+8/28/2020,Sardegna,Italy,4/2/2021 15:13,2022,134
+8/28/2020,Saskatchewan,Canada,4/2/2021 15:13,1611,24
+8/28/2020,Schleswig-Holstein,Germany,4/2/2021 15:13,4014,160
+8/28/2020,Scotland,UK,4/2/2021 15:13,20107,2494
+8/28/2020,Sergipe,Brazil,4/2/2021 15:13,72039,1837
+8/28/2020,Sevastopol*,Ukraine,4/2/2021 15:13,488,18
+8/28/2020,Shaanxi,Mainland China,4/2/2021 15:13,364,3
+8/28/2020,Shandong,Mainland China,4/2/2021 15:13,831,7
+8/28/2020,Shanghai,Mainland China,4/2/2021 15:13,894,7
+8/28/2020,Shanxi,Mainland China,4/2/2021 15:13,202,0
+8/28/2020,Shiga,Japan,4/2/2021 15:13,436,4
+8/28/2020,Shimane,Japan,4/2/2021 15:13,137,0
+8/28/2020,Shizuoka,Japan,4/2/2021 15:13,478,1
+8/28/2020,Sichuan,Mainland China,4/2/2021 15:13,650,3
+8/28/2020,Sicilia,Italy,4/2/2021 15:13,4228,286
+8/28/2020,Sikkim,India,4/2/2021 15:13,1576,3
+8/28/2020,Sinaloa,Mexico,4/2/2021 15:13,15848,2733
+8/28/2020,Sindh,Pakistan,4/2/2021 15:13,129081,2394
+8/28/2020,Sint Maarten,Netherlands,4/2/2021 15:13,444,17
+8/28/2020,Skane,Sweden,4/2/2021 15:13,4685,285
+8/28/2020,Smolensk Oblast,Russia,4/2/2021 15:13,6123,127
+8/28/2020,Sonora,Mexico,4/2/2021 15:13,21202,2621
+8/28/2020,Sormland,Sweden,4/2/2021 15:13,2422,253
+8/28/2020,South Australia,Australia,4/2/2021 15:13,463,4
+8/28/2020,South Carolina,US,4/2/2021 15:13,115951,2655
+8/28/2020,South Dakota,US,4/2/2021 15:13,12517,165
+8/28/2020,St Martin,France,4/2/2021 15:13,213,5
+8/28/2020,Stavropol Krai,Russia,4/2/2021 15:13,11606,227
+8/28/2020,Stockholm,Sweden,4/2/2021 15:13,22941,2393
+8/28/2020,Sucre,Colombia,4/2/2021 15:13,11365,475
+8/28/2020,Sumy Oblast,Ukraine,4/2/2021 15:13,1361,22
+8/28/2020,Sverdlovsk Oblast,Russia,4/2/2021 15:13,24960,441
+8/28/2020,Tabasco,Mexico,4/2/2021 15:13,27825,2549
+8/28/2020,Tacna,Peru,4/2/2021 15:13,8061,128
+8/28/2020,Tamaulipas,Mexico,4/2/2021 15:13,24094,1768
+8/28/2020,Tambov Oblast,Russia,4/2/2021 15:13,6678,45
+8/28/2020,Tamil Nadu,India,4/2/2021 15:13,409238,7050
+8/28/2020,Tarapaca,Chile,4/2/2021 15:13,10539,199
+8/28/2020,Tasmania,Australia,4/2/2021 15:13,230,13
+8/28/2020,Tatarstan Republic,Russia,4/2/2021 15:13,6424,33
+8/28/2020,Telangana,India,4/2/2021 15:13,120166,808
+8/28/2020,Tennessee,US,4/2/2021 15:13,150815,1701
+8/28/2020,Ternopil Oblast,Ukraine,4/2/2021 15:13,5478,64
+8/28/2020,Texas,US,4/2/2021 15:13,625053,12859
+8/28/2020,Thuringen,Germany,4/2/2021 15:13,3592,186
+8/28/2020,Tianjin,Mainland China,4/2/2021 15:13,220,3
+8/28/2020,Tibet,Mainland China,4/2/2021 15:13,1,0
+8/28/2020,Tlaxcala,Mexico,4/2/2021 15:13,6159,890
+8/28/2020,Tocantins,Brazil,4/2/2021 15:13,48580,649
+8/28/2020,Tochigi,Japan,4/2/2021 15:13,302,1
+8/28/2020,Tokushima,Japan,4/2/2021 15:13,129,4
+8/28/2020,Tokyo,Japan,4/2/2021 15:13,20332,358
+8/28/2020,Tolima,Colombia,4/2/2021 15:13,6572,168
+8/28/2020,Tomsk Oblast,Russia,4/2/2021 15:13,5494,65
+8/28/2020,Toscana,Italy,4/2/2021 15:13,11595,1141
+8/28/2020,Tottori,Japan,4/2/2021 15:13,22,0
+8/28/2020,Toyama,Japan,4/2/2021 15:13,374,23
+8/28/2020,Tripura,India,4/2/2021 15:13,10857,94
+8/28/2020,Tula Oblast,Russia,4/2/2021 15:13,9167,317
+8/28/2020,Tumbes,Peru,4/2/2021 15:13,5601,274
+8/28/2020,Turks and Caicos Islands,UK,4/2/2021 15:13,490,3
+8/28/2020,Tver Oblast,Russia,4/2/2021 15:13,5333,187
+8/28/2020,Tyumen Oblast,Russia,4/2/2021 15:13,7623,30
+8/28/2020,Tyva Republic,Russia,4/2/2021 15:13,6747,60
+8/28/2020,Ucayali,Peru,4/2/2021 15:13,13261,292
+8/28/2020,Udmurt Republic,Russia,4/2/2021 15:13,3092,45
+8/28/2020,Ulyanovsk Oblast,Russia,4/2/2021 15:13,11807,91
+8/28/2020,Uppsala,Sweden,4/2/2021 15:13,3762,242
+8/28/2020,Utah,US,4/2/2021 15:13,50948,407
+8/28/2020,Utrecht,Netherlands,4/2/2021 15:13,5350,434
+8/28/2020,Uttar Pradesh,India,4/2/2021 15:13,213824,3294
+8/28/2020,Uttarakhand,India,4/2/2021 15:13,17865,239
+8/28/2020,Valle d'Aosta,Italy,4/2/2021 15:13,1226,146
+8/28/2020,Valle del Cauca,Colombia,4/2/2021 15:13,45667,1679
+8/28/2020,Valparaiso,Chile,4/2/2021 15:13,22243,674
+8/28/2020,Varmland,Sweden,4/2/2021 15:13,1178,73
+8/28/2020,Vasterbotten,Sweden,4/2/2021 15:13,860,31
+8/28/2020,Vasternorrland,Sweden,4/2/2021 15:13,1850,133
+8/28/2020,Vastmanland,Sweden,4/2/2021 15:13,2734,183
+8/28/2020,Vastra Gotaland,Sweden,4/2/2021 15:13,18688,851
+8/28/2020,Vaupes,Colombia,4/2/2021 15:13,251,1
+8/28/2020,Veneto,Italy,4/2/2021 15:13,22604,2119
+8/28/2020,Veracruz,Mexico,4/2/2021 15:13,27804,3623
+8/28/2020,Vermont,US,4/2/2021 15:13,1589,58
+8/28/2020,Vichada,Colombia,4/2/2021 15:13,21,1
+8/28/2020,Victoria,Australia,4/2/2021 15:13,18903,513
+8/28/2020,Vinnytsia Oblast,Ukraine,4/2/2021 15:13,3800,80
+8/28/2020,Virgin Islands,US,4/2/2021 15:13,1075,14
+8/28/2020,Virginia,US,4/2/2021 15:13,117592,2550
+8/28/2020,Vladimir Oblast,Russia,4/2/2021 15:13,6237,193
+8/28/2020,Volgograd Oblast,Russia,4/2/2021 15:13,11836,90
+8/28/2020,Vologda Oblast,Russia,4/2/2021 15:13,3278,34
+8/28/2020,Volyn Oblast,Ukraine,4/2/2021 15:13,5320,116
+8/28/2020,Voronezh Oblast,Russia,4/2/2021 15:13,13849,107
+8/28/2020,Wakayama,Japan,4/2/2021 15:13,228,5
+8/28/2020,Wales,UK,4/2/2021 15:13,17877,1595
+8/28/2020,Washington,US,4/2/2021 15:13,74420,1894
+8/28/2020,West Bengal,India,4/2/2021 15:13,153754,3073
+8/28/2020,West Virginia,US,4/2/2021 15:13,9826,201
+8/28/2020,Western Australia,Australia,4/2/2021 15:13,655,9
+8/28/2020,Wisconsin,US,4/2/2021 15:13,73981,1113
+8/28/2020,Wyoming,US,4/2/2021 15:13,3803,37
+8/28/2020,Xinjiang,Mainland China,4/2/2021 15:13,902,3
+8/28/2020,Yamagata,Japan,4/2/2021 15:13,77,1
+8/28/2020,Yamaguchi,Japan,4/2/2021 15:13,151,0
+8/28/2020,Yamalo-Nenets Autonomous Okrug,Russia,4/2/2021 15:13,13269,90
+8/28/2020,Yamanashi,Japan,4/2/2021 15:13,175,3
+8/28/2020,Yaroslavl Oblast,Russia,4/2/2021 15:13,7117,35
+8/28/2020,Yucatan,Mexico,4/2/2021 15:13,14324,1294
+8/28/2020,Yukon,Canada,4/2/2021 15:13,15,0
+8/28/2020,Yunnan,Mainland China,4/2/2021 15:13,199,2
+8/28/2020,Zabaykalsky Krai,Russia,4/2/2021 15:13,4517,56
+8/28/2020,Zacatecas,Mexico,4/2/2021 15:13,5103,466
+8/28/2020,Zakarpattia Oblast,Ukraine,4/2/2021 15:13,7302,254
+8/28/2020,Zaporizhia Oblast,Ukraine,4/2/2021 15:13,1487,25
+8/28/2020,Zeeland,Netherlands,4/2/2021 15:13,1036,72
+8/28/2020,Zhejiang,Mainland China,4/2/2021 15:13,1277,1
+8/28/2020,Zhytomyr Oblast,Ukraine,4/2/2021 15:13,3063,61
+8/28/2020,Zuid-Holland,Netherlands,4/2/2021 15:13,18636,1343
